@@ -11,8 +11,8 @@ The provided java program gives you the ability to Encrypt and Decrypt either a 
 
 ## HOW TO RUN:
 
-1- Download the zip file and extract the zip, the folder contains:
-	-The App file is present in `src,` which contains the code  
+1- the folder contains:
+	-The App.java file which contains the code  
 	-Readme file
 	-And an input file end with `txt`, and the output files `encrypted` , `decrypted`
 
