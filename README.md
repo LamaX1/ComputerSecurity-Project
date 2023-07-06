@@ -12,9 +12,9 @@ The provided java program gives you the ability to Encrypt and Decrypt either a 
 ## HOW TO RUN:
 
 1- the folder contains:
-	-The App.java file which contains the code  
-	-Readme file
-	-And an input file end with `txt`, and the output files `encrypted` , `decrypted`
+-The App.java file which contains the code  
+-Readme file
+-And an input file end with `txt`, and the output files `encrypted` , `decrypted`
 
 2- Open ide for java you have and then go to File->Open Project -> select App.java
 
