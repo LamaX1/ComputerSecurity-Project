@@ -1,5 +1,5 @@
 # ComputerSecurity_Project
-Project in Computer Security Course that encrypt and decrypt either a file or a folder using Data Encryption Standard (DES) and Advanced Encryption Standard (AES).
+Project for Computer Security Course that encrypts and decrypts either a file or a folder using Data Encryption Standard (DES) and Advanced Encryption Standard (AES).
 
 ## Getting Started
 
@@ -12,9 +12,9 @@ The provided java program gives you the ability to Encrypt and Decrypt either a 
 ## HOW TO RUN:
 
 1- the folder contains:
-a-The App.java file which contains the code  
-b-Readme file
-c-And an input file end with `txt`, and the output files `encrypted` , `decrypted`
+	a- The App.java file which contains the code  
+	b- Readme file
+	c- An input file end with `txt`, and the output files `encrypted` , `decrypted`
 
 2- Open ide for java you have and then go to File->Open Project -> select App.java
 
@@ -24,13 +24,13 @@ c-And an input file end with `txt`, and the output files `encrypted` , `decrypte
 
 5- If you select Encrypt/Decrypt option then it will ask you to choose between (1) File (2) Folder
 
-6- The file name is path for both the file/the folder
+6- The file name is the path for both the file/the folder
 
 7- You can take the path for file or folder from C->user->username->document -> project-> security.txt
 
 8- Copy the path
 	- Go to the IDE and right click to paste the path
-		note: the txt file name you will write it like security.txt
+		Note: the txt file name you will write it like security.txt
 
 9- choose the algorithm
 
